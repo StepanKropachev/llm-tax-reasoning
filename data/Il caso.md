@@ -1,0 +1,5 @@
+## Il caso
+
+Il Signor Mario Rossi, un contribuente persona fisica che non agisce nell'esercizio di attività d'impresa, ha iniziato a investire in cripto-attività prima delle recenti modifiche normative. Nello specifico, ha acquistato 0,5 Bitcoin nel giugno 2021 per un costo totale di 15.000 € e successivamente ha acquisito 10 Ethereum nel maggio 2022 per 12.000 €. Fino al 2025, non ha mai effettuato alcuna vendita. Il 15 luglio 2025, il Signor Rossi ha venduto la sua intera posizione in Ethereum (10 ETH), ricevendo un corrispettivo totale di 35.000 €. Non ha effettuato altre cessioni di cripto-attività durante l'anno solare.
+
+Il Signor Rossi richiede un parere pro veritate per chiarire il corretto trattamento fiscale dell'importo realizzato. In particolare, desidera sapere se la plusvalenza derivante dalla vendita di Ethereum sia fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025, come debba essere calcolata e quale sia l'aliquota fiscale applicabile.

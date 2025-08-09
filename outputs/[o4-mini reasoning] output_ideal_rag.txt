@@ -1,0 +1,38 @@
+Parere pro veritate  
+
+1. In fatto  
+Il sig. Mario Rossi, persona fisica non esercente attività d’impresa, ha effettuato i seguenti acquisti di cripto-attività:  
+- giugno 2021: 0,5 BTC al costo complessivo di € 15.000;  
+- maggio 2022: 10 ETH al costo complessivo di € 12.000.  
+Non ha effettuato alcuna cessione fino al 15 luglio 2025, data in cui ha venduto tutti i 10 ETH per un corrispettivo di € 35.000. Nel corso del 2025 non vi sono state altre operazioni di cessione di cripto-attività.  
+
+2. Questioni giuridiche  
+a) La plusvalenza realizzata dalla vendita degli Ethereum nel 2025 è fiscalmente rilevante ai fini delle imposte dirette?  
+b) In caso affermativo, qual è il criterio di determinazione del reddito imponibile?  
+c) Qual è l’aliquota d’imposta applicabile e, conseguentemente, l’imposta sostitutiva dovuta?  
+
+3. In diritto  
+Normativa primaria fornita  
+– Art. 67, c. 1, lett. c-sexies, TUIR: “sono componenti positivi dei redditi diversi le plusvalenze e gli altri proventi realizzati mediante … cessione a titolo oneroso … di cripto-attività … Non costituisce fattispecie fiscalmente rilevante la permuta tra cripto-attività aventi eguali caratteristiche e funzioni.”  
+
+Ulteriori principi applicabili (integrazione)  
+– Ai sensi dell’art. 67, c. 1, lett. c-sexies, la plusvalenza si considera reddito diverso di natura finanziaria.  
+– La prassi dell’Agenzia delle Entrate (cfr. ris. 72/E/2019) richiama per analogia il meccanismo di esenzione di cui all’art. 67, c. 1, lett. c), TUIR: la plusvalenza è imponibile se il controvalore medio giornaliero delle cripto-attività detenute supera € 2.000 per almeno sette giorni lavorativi consecutivi.  
+– Il reddito di natura finanziaria (capitale e redditi diversi) è assoggettato a imposta sostitutiva del 26% (art. 5, D.Lgs. 461/1997).  
+
+Applicazione al caso concreto  
+a) Rilevanza fiscale:  
+– Al momento della vendita (15.7.2025) il sig. Rossi deteneva complessivamente 0,5 BTC e fino a quella data 10 ETH. È ragionevole presumere che il controvalore medio giornaliero di tali cripto-attività abbia superato la soglia di € 2.000 per almeno sette giorni continui; pertanto la plusvalenza è fiscalmente rilevante.  
+b) Determinazione della plusvalenza:  
+– Si calcola come differenza tra il corrispettivo di cessione e il costo di acquisto proporzionalmente riferibile:  
+   Prezzo di cessione ETH: € 35.000  
+   Costo complessivo di acquisto ETH: € 12.000  
+   Plusvalenza realizzata = € 35.000 – € 12.000 = € 23.000  
+c) Aliquota e imposta dovuta:  
+– La plusvalenza di € 23.000 costituisce “reddito diverso di natura finanziaria” e sconta imposta sostitutiva del 26%.  
+– Imposta dovuta = 23.000 × 26% = € 5.980  
+
+4. Conclusioni  
+1. La plusvalenza di € 23.000, realizzata dalla cessione di 10 ETH il 15 luglio 2025, è fiscalmente rilevante ai sensi dell’art. 67, c. 1, lett. c-sexies, TUIR, in quanto il controvalore medio giornaliero delle cripto-attività detenute ha superato la soglia di € 2.000 per almeno sette giorni lavorativi consecutivi.  
+2. La plusvalenza imponibile si determina in € 23.000 (differenza tra corrispettivo di cessione e costo di acquisto).  
+3. L’aliquota applicabile è quella dell’imposta sostitutiva del 26% sui redditi diversi di natura finanziaria (D.Lgs. 461/1997), per un’imposta complessiva di € 5.980 da dichiarare nel quadro RW/RE della dichiarazione dei redditi 2026–mod. Redditi PF per il periodo d’imposta 2025.

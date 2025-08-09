@@ -1,0 +1,39 @@
+Parere pro veritate
+
+In fatto
+- Il Sig. Mario Rossi, persona fisica non esercente attività d’impresa, ha acquistato 10 Ethereum (ETH) nel maggio 2022 al costo complessivo di € 12.000.
+- Il 15 luglio 2025 ha ceduto l’intera posizione in Ethereum (10 ETH) ricevendo un corrispettivo complessivo di € 35.000.
+- Non ha effettuato altre cessioni di cripto-attività nel 2025.
+- Richiede chiarimenti sul trattamento fiscale della plusvalenza realizzata: se sia fiscalmente rilevante ai fini delle imposte dirette per il 2025, come calcolarla e quale aliquota applicare.
+
+Questioni giuridiche
+1. La plusvalenza realizzata dalla cessione di ETH rientra nell’ambito di imponibilità ai fini delle imposte dirette per il 2025?
+2. Qual è la base imponibile della plusvalenza e il metodo corretto di calcolo?
+3. Quale aliquota fiscale si applica e quale imposta risulta dovuta per l’anno d’imposta 2025?
+
+In diritto
+- Norma di riferimento fornita: paragrafo c-sexies dell’art. 67 (testo fornito). Da tale disposizione risultano rilevanti i seguenti principi ricavati dal testo ricevuto:
+  - “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attivita'” rientrano nella fattispecie disciplinata.
+  - Per “cripto-attivita'” si intende una rappresentazione digitale di valore o di diritti trasferibili e memorizzati elettronicamente tramite tecnologia di registro distribuito o analoga.
+  - Non è fiscalmente rilevante la permuta tra cripto-attivita' aventi eguali caratteristiche e funzioni.
+- Applicazione al caso concreto:
+  - La cessione del 15 luglio 2025 riguarda Ethereum, rientrante certamente nella definizione di “cripto-attivita'” di cui alla norma fornita; pertanto la plusvalenza realizzata è captata dalla fattispecie normativa citata e risulta rilevante ai fini delle imposte dirette, salvo che concorrano particolari esenzioni non indicate nel testo fornito.
+  - Metodo di determinazione della plusvalenza: la norma fornisce il criterio soggettivo di rilevanza ma non specifica nel testo allegato le modalità di quantificazione. In mancanza di una specifica nel documento fornito, si ricorre al principio generalmente applicabile alle plusvalenze da cessione di beni finanziari/beni patrimoniali: la plusvalenza è data dalla differenza tra il corrispettivo percepito alla cessione e il costo fiscalmente riconosciuto di acquisizione (eventualmente rettificato per oneri documentati connessi all’acquisto). Applicando tale criterio ai dati di fatto:
+    - Corrispettivo di cessione: € 35.000
+    - Costo di acquisto: € 12.000
+    - Plusvalenza realizzata = € 35.000 − € 12.000 = € 23.000
+  - Aliquota applicabile: il testo fornito non indica l’aliquota o la natura dell’imposizione (se progressiva IRPEF o imposta sostitutiva). In assenza di questa indicazione nel documento allegato, si integra con il principio fiscale generalmente applicato alle plusvalenze su cripto-attività realizzate da persone fisiche non esercenti impresa: tali plusvalenze sono normalmente assoggettate a tassazione separata con imposta sostitutiva applicabile in misura fissa (prassi corrente: aliquota del 26% sui redditi diversi di natura finanziaria). Pertanto, salvo diversa disposizione normativa o diversa qualificazione della plusvalenza nella normativa successiva al testo qui fornito, si applica l’aliquota del 26% sulla plusvalenza di riferimento.
+  - Eventuali compensazioni e oneri: in assenza di ulteriori vendite o minusvalenze nello stesso periodo, non emergono elementi per compensare la plusvalenza. Sono comunque deducibili o imputabili al costo eventuali oneri documentabili inerenti l’acquisto o la vendita (commissioni, spese di transazione) che ridurrebbero la base imponibile, se documentati e fiscalmente rilevanti.
+
+Conclusioni
+1. Rilevanza fiscale: Sì. La plusvalenza derivante dalla cessione dei 10 ETH il 15 luglio 2025 rientra nella fattispecie prevista dal paragrafo c-sexies dell’art. 67 (fornito) e quindi è fiscalmente rilevante ai fini delle imposte dirette per l’anno d’imposta 2025.
+2. Calcolo della plusvalenza: Base imponibile = corrispettivo di cessione − costo di acquisto. Con i dati forniti:
+   - Plusvalenza = € 35.000 − € 12.000 = € 23.000.
+   - Eventuali spese direttamente connesse (commissioni, oneri documentabili) possono ridurre la base imponibile se rilevanti e documentate.
+3. Aliquota e imposta dovuta: Sulla base dell’integrazione normativa disponibile (il documento fornito non specifica aliquota), la plusvalenza è assoggettata all’aliquota ordinariamente applicata alle plusvalenze finanziarie riconosciute ai contribuenti persone fisiche non imprenditori, pari al 26%. Applicando tale aliquota:
+   - Imposta = 26% di € 23.000 = € 5.980.
+4. Adempimenti dichiarativi: La plusvalenza deve essere evidenziata nella dichiarazione dei redditi relativa al periodo d’imposta 2025, secondo le modalità previste per i redditi diversi di capitale/plusvalenze da cripto-attività. (Il documento ricevuto non disciplina le specifiche modalità di dichiarazione o eventuali ritenute sostitutive; si raccomanda di seguire le istruzioni del modello di dichiarazione applicabile per l’anno 2025).
+
+Avvertenze e riserva
+- Il parere è formulato prendendo come primaria fonte il paragrafo c-sexies dell’art. 67 fornito. Poiché il documento fornito non contiene indicazioni su aliquote, modalità dichiarative dettagliate o eventuali esenzioni/dispense, ho integrato con principi fiscali generalmente applicati (in particolare l’applicazione pratica dell’aliquota del 26% sulle plusvalenze finanziarie). Tale integrazione è stata effettuata in mancanza di indicazioni più puntuali nel materiale fornito.
+- In presenza di norme successive, di chiarimenti amministrativi o di elementi documentali aggiuntivi (ad esempio costi accessori effettivamente sostenuti e documentati, o diversa qualificazione dell’operazione), il risultato può mutare. Si consiglia di verificare la normativa e la prassi aggiornate al momento della presentazione della dichiarazione e, se necessario, di predisporre la documentazione comprovante costi e commissioni per ridurre la base imponibile.

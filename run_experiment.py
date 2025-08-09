@@ -12,9 +12,10 @@ except Exception as e:
     print(e)
     exit()
 
-MODEL_NAME = "o4-mini"
-TEMPERATURE = 0.1
-MAX_TOKENS = 2048
+MODEL_NAME = "gpt-5-mini"
+TEMPERATURE = 1
+REASONING = "medium"
+max_completion_tokens = 4000
 
 # --- 2. LOAD ASSETS FROM FILES ---
 def load_text(filepath):
@@ -62,12 +63,13 @@ def run_condition(condition_name):
         # Call the OpenAI API using the structured messages format
         response = client.chat.completions.create(
             model=MODEL_NAME,
+            reasoning_effort=REASONING,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
             temperature=TEMPERATURE,
-            max_tokens=MAX_TOKENS
+            max_completion_tokens=max_completion_tokens
         )
         
         generated_opinion = response.choices[0].message.content or ""

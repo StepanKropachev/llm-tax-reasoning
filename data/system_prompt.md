@@ -15,5 +15,3 @@ devono essere risolte per il cliente;
 ● In diritto: Cita le norme pertinenti tra quelle fornite. Applica queste norme in modo logico
 e argomentativo ai fatti del caso per risolvere le questioni identificate;
 ● Conclusioni: Fornisci una risposta chiara, diretta e motivata alle questioni giuridiche, riassumendo l'esito della tua analisi.
-
-Ora, procedi con la stesura del parere.

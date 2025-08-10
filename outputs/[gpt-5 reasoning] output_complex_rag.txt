@@ -1,0 +1,30 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato:
+  - 0,5 Bitcoin nel giugno 2021 per 15.000 euro;
+  - 10 Ethereum nel maggio 2022 per 12.000 euro.
+- Fino al 2025 non ha effettuato cessioni. Il 15 luglio 2025 ha venduto tutti i 10 Ethereum per 35.000 euro.
+- Nell’anno 2025 non ha realizzato altre plusvalenze/proventi da cripto-attività.
+
+Questioni giuridiche
+- Se la plusvalenza derivante dalla vendita di 10 ETH nel 2025 è fiscalmente rilevante ai fini delle imposte dirette.
+- Come si determina la plusvalenza imponibile (criterio di calcolo e base imponibile).
+- Quale aliquota/imposta si applica e se operi una franchigia.
+
+In diritto
+- Rilevanza fiscale: Il Paragrafo c-sexies dell’art. 67 (Documento 1) considera redditi diversi “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività”. La cessione a titolo oneroso dei 10 ETH configura pertanto un fatto fiscalmente rilevante nel 2025. La permuta tra cripto-attività con eguali caratteristiche e funzioni non è rilevante, ma non ricorre nel caso di specie (trattasi di vendita).
+- Aliquota e franchigia: Secondo la Faq del 30 aprile 2025 (Documento 3), “sulle plusvalenze e gli altri proventi derivanti da cripto-attività si applica una imposta sostitutiva del 26%” e, nel calcolo della base imponibile delle plusvalenze/proventi realizzati nell’anno, “è riconosciuta una franchigia di euro 2.000”, per cui si tassa solo l’eccedenza.
+- Calcolo della plusvalenza: In base ai principi generali sui redditi diversi di natura finanziaria, la plusvalenza si determina quale differenza tra il corrispettivo di cessione e il costo o valore di acquisto dell’asset (comprensivo degli oneri direttamente inerenti, se documentati). Nel caso:
+  - Corrispettivo di cessione ETH: 35.000 euro.
+  - Costo storico dei 10 ETH (maggio 2022): 12.000 euro.
+  - Plusvalenza lorda: 35.000 – 12.000 = 23.000 euro.
+  - Non risultano altre plusvalenze/proventi da cripto-attività nel 2025, quindi l’ammontare di 23.000 euro è quello da assumere per l’applicazione della franchigia unica annua di 2.000 euro (Documento 3).
+  - Base imponibile: 23.000 – 2.000 = 21.000 euro.
+  - Imposta sostitutiva del 26%: 21.000 × 26% = 5.460 euro.
+- Le 0,5 unità di BTC acquistate nel 2021 non hanno rilievo nel 2025 in assenza di cessione.
+
+Conclusioni
+- La plusvalenza realizzata dal Sig. Rossi con la vendita, in data 15 luglio 2025, dei 10 ETH è fiscalmente rilevante ai fini delle imposte dirette, in quanto rientra tra i redditi diversi di cui al Paragrafo c-sexies dell’art. 67 (Documento 1).
+- La plusvalenza si calcola come differenza tra il corrispettivo di cessione (35.000 euro) e il costo di acquisto (12.000 euro), pari a 23.000 euro, con eventuale incremento/deduzione per oneri direttamente connessi se documentati.
+- Sulla base imponibile così determinata si applica la franchigia annua di 2.000 euro prevista dalla Faq del 30 aprile 2025 (Documento 3); la base imponibile è dunque 21.000 euro.
+- L’imposta dovuta è l’imposta sostitutiva del 26% (Documento 3) sulla suddetta base imponibile: 5.460 euro.
+- Nessun effetto fiscale deriva nel 2025 dal possesso dei 0,5 BTC, non essendo stati ceduti.

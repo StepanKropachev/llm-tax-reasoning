@@ -1,0 +1,28 @@
+In fatto
+- Il Sig. Mario Rossi (persona fisica, fuori dall’esercizio d’impresa) ha acquistato: (i) 0,5 Bitcoin a giugno 2021 per 15.000 euro; (ii) 10 Ethereum a maggio 2022 per 12.000 euro.
+- Non ha mai venduto fino al 2025. Il 15 luglio 2025 ha ceduto integralmente i 10 Ethereum, incassando 35.000 euro.
+- Nell’anno 2025 non ha effettuato altre cessioni di cripto-attività.
+
+Questioni giuridiche
+- Se la cessione dei 10 Ethereum nel 2025 genera un reddito imponibile ai fini delle imposte dirette.
+- Come si determina la plusvalenza (criterio di calcolo e regole accessorie, inclusa l’eventuale franchigia).
+- Quale imposta e aliquota sono applicabili per il 2025.
+
+In diritto
+- Qualificazione della fattispecie: l’art. 67, comma 1, lett. c-sexies) TUIR (testo vigente dal 18/06/2025, come da documento fornito) qualifica come redditi diversi “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività, comunque denominate”. La vendita contro euro dei 10 ETH del 15 luglio 2025 integra una cessione a titolo oneroso di cripto-attività e, quindi, genera reddito diverso imponibile. L’esclusione per le permute tra cripto-attività “aventi eguali caratteristiche e funzioni” non è applicabile, trattandosi di cessione contro valuta fiat.
+- Determinazione della plusvalenza: in base ai principi di determinazione dei redditi diversi da cessione di strumenti/attività finanziarie (art. 68 TUIR, applicabile anche alla lett. c-sexies in via integrativa), la plusvalenza si calcola come differenza tra il corrispettivo percepito e il costo o valore di acquisto, rilevando gli oneri direttamente inerenti (commissioni, fee di acquisto/vendita), se documentati. Per le cripto-attività, opera inoltre la franchigia per importi contenuti: le plusvalenze complessive da cripto-attività realizzate nel periodo d’imposta non concorrono al reddito fino a 2.000 euro (franchigia annua sul saldo netto del periodo).
+- Applicazione al caso:
+  - Corrispettivo di cessione (10 ETH): 35.000 euro.
+  - Costo storico complessivo (maggio 2022): 12.000 euro.
+  - Plusvalenza lorda: 35.000 − 12.000 = 23.000 euro (da ridurre di eventuali commissioni documentate).
+  - Franchigia annua cripto: 2.000 euro. In assenza di altre plus/minus su cripto nel 2025, la quota imponibile è 23.000 − 2.000 = 21.000 euro.
+- Aliquota e imposta: i redditi diversi da cessione di cripto-attività sono assoggettati a imposta sostitutiva ai sensi del D.Lgs. 21 novembre 1997, n. 461 (regimi del risparmio amministrato/gestito/dichiarativo). Per il 2025 l’aliquota è del 26%. Il documento fornito (art. 67 TUIR, nota (5)) segnala l’incremento al 33% solo per le plusvalenze realizzate dal 1° gennaio 2026. Dunque, per il 2025:
+  - Imposta sostitutiva: 21.000 × 26% = 5.460 euro (salvo ulteriori riduzioni per oneri/commissioni documentati).
+- Profili dichiarativi (di sintesi): in mancanza di un intermediario italiano che applichi la ritenuta/imposta sostitutiva (regime amministrato/gestito), il contribuente applica il regime dichiarativo, indicando il risultato nel quadro RT della dichiarazione dei redditi e versando l’imposta sostitutiva dovuta (saldo 2025 e, se del caso, acconti 2026). La detenzione di BTC non ceduti nel 2025 non genera plusvalenza; restano eventualmente da valutare, a parte, gli adempimenti patrimoniali (imposta sul valore/bollo e monitoraggio fiscale) che non sono oggetto del presente quesito.
+
+Conclusioni
+- La cessione dei 10 Ethereum effettuata il 15 luglio 2025 genera un reddito diverso imponibile ai sensi dell’art. 67, comma 1, lett. c-sexies) TUIR.
+- La plusvalenza si calcola come differenza tra corrispettivo incassato (35.000 euro) e costo storico (12.000 euro), al netto di eventuali oneri/commissioni documentati; nel caso rappresentato, la plusvalenza lorda è pari a 23.000 euro.
+- Si applica la franchigia annua di 2.000 euro sulle plusvalenze complessive da cripto-attività del periodo d’imposta; pertanto, in assenza di altre operazioni, l’imponibile 2025 è 21.000 euro.
+- L’aliquota applicabile per il 2025 è il 26% a titolo di imposta sostitutiva; l’imposta dovuta è pari a 5.460 euro (da rettificare se vi sono oneri di transazione).
+- Nota prospettica: per le plusvalenze realizzate dal 1° gennaio 2026 l’aliquota è prevista al 33% (come da nota (5) all’art. 67 TUIR fornito).

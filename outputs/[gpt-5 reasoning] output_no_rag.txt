@@ -1,0 +1,34 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato:
+  - 0,5 BTC a giugno 2021 per 15.000 € (mai venduti sino al 2025);
+  - 10 ETH a maggio 2022 per 12.000 € (acquisto unitario).
+- Il 15 luglio 2025 ha ceduto l’intera posizione in ETH (10 ETH), incassando 35.000 €.
+- Non ha effettuato altre cessioni di cripto-attività nel 2025.
+- Chiede se la plusvalenza 2025 sia fiscalmente rilevante, come si calcoli e quale aliquota si applichi.
+
+Questioni giuridiche
+1) Se, alla luce del vigente regime italiano sulle cripto-attività, la cessione a titolo oneroso di ETH del 15.7.2025 generi un reddito imponibile per il 2025.
+2) Quale sia il criterio di determinazione della plusvalenza (corrispettivo meno costo fiscalmente riconosciuto; trattamento di eventuali commissioni; impatto delle regole transitorie).
+3) Quale aliquota si applichi e se operi la franchigia annua di 2.000 €; quali adempimenti dichiarativi conseguano.
+
+In diritto
+- In base alla Legge di Bilancio 2023 (L. 197/2022), è stato introdotto nel TUIR un regime organico per le “cripto-attività” a decorrere dal periodo d’imposta 2023. Per i soggetti non imprenditori, i proventi da cessione a titolo oneroso di cripto-attività costituiscono “redditi diversi” (art. 67, comma 1, lett. c-sexies, TUIR) determinati, di regola, quale differenza tra il corrispettivo percepito e il costo o valore di acquisto (art. 68 TUIR, come integrato dalla medesima legge).
+- L’aliquota applicabile è un’imposta sostitutiva del 26% sui redditi diversi derivanti da cripto-attività. Tali redditi non concorrono alla formazione della base imponibile IRPEF e addizionali, in quanto assoggettati a imposta sostitutiva.
+- È prevista una franchigia: se, nel complesso del periodo d’imposta, i redditi diversi da cripto-attività sono non superiori a 2.000 €, essi non sono imponibili. La franchigia opera sul risultato netto complessivo dell’anno (somma algebrica di plus e minus su cripto-attività).
+- Evento realizzativo: la vendita di ETH contro euro è un evento realizzativo. Le regole “storiche” ante 2023 (assimilazione alle valute estere e soglia di giacenza) non si applicano agli eventi realizzativi dal 1.1.2023 in poi.
+- Costo fiscalmente riconosciuto: è il prezzo di acquisto documentato, maggiorabile degli oneri direttamente connessi (es. commissioni di acquisto) e, simmetricamente, il corrispettivo di cessione può essere assunto al netto degli oneri direttamente connessi alla vendita (es. commissioni di vendita), se documentati. In mancanza di idonea documentazione il costo si presume pari a zero.
+- Regole transitorie (step-up): era possibile, nel 2023, affrancare il valore delle cripto-attività al 1° gennaio 2023 con imposta sostitutiva del 14% per assumere tale valore quale nuovo costo fiscale. In assenza di esercizio di tale facoltà, resta rilevante il costo storico. Nel caso di specie nulla indica che il Sig. Rossi abbia optato per lo step-up; pertanto, il costo resta 12.000 € per i 10 ETH acquistati nel 2022.
+- Coordinamento con altre posizioni: la detenzione dei 0,5 BTC non comporta effetti reddituali finché non interviene un evento realizzativo. La presenza di altre cripto non vendute non incide sul calcolo della plusvalenza 2025 sugli ETH.
+
+Applicazione al caso
+- Plusvalenza lorda su ETH: 35.000 € (corrispettivo) – 12.000 € (costo 2022 documentato) = 23.000 €.
+  - Se fossero presenti commissioni direttamente connesse e documentate (acquisto/vendita), tali importi ridurrebbero proporzionalmente il risultato (aumentando il costo o riducendo il corrispettivo).
+- Franchigia: il risultato netto da cripto-attività 2025 è pari a 23.000 € (non risultano altre operazioni). Poiché supera 2.000 €, l’intera plusvalenza è imponibile (la franchigia non è “a scaglioni”: sotto 2.000 € non si tassa nulla; sopra, si tassa l’intero importo).
+- Aliquota: imposta sostitutiva del 26% su 23.000 € = 5.980 € (salvo piccoli scostamenti per eventuali commissioni documentate).
+- Adempimenti: se l’operazione non è stata eseguita in regime amministrato con un intermediario/sostituto d’imposta residente che abbia applicato la ritenuta/imposta sostitutiva, il Sig. Rossi dovrà indicare la plusvalenza nel Modello Redditi PF 2026 (redditi 2025), nel quadro dedicato alle plusvalenze da cripto-attività (Quadro RT) e versare l’imposta sostitutiva dovuta. La detenzione di cripto presso intermediari esteri può comportare, inoltre, obblighi di monitoraggio fiscale (Quadro RW) e l’imposta sul valore delle cripto-attività detenute, profili che non incidono sul calcolo della plusvalenza ma vanno verificati in sede dichiarativa.
+
+Conclusioni
+- La cessione dei 10 ETH del 15 luglio 2025 costituisce evento realizzativo e genera un reddito diverso imponibile ai sensi dell’art. 67, comma 1, lett. c-sexies, TUIR, come introdotto dalla L. 197/2022.
+- La plusvalenza si calcola come corrispettivo incassato al netto degli oneri direttamente connessi, meno il costo storico documentato (parimenti al netto/plus degli oneri di acquisto). Nel caso, in assenza di commissioni dichiarate, 35.000 – 12.000 = 23.000 €.
+- Poiché il risultato netto dell’anno supera 2.000 €, la plusvalenza è integralmente imponibile con imposta sostitutiva del 26%. Imposta dovuta indicativamente: 5.980 €.
+- La detenzione dei 0,5 BTC non comporta alcuna imposizione fino a futura cessione. Resta da verificare solo il corretto adempimento dichiarativo (quadro RT per la plusvalenza; eventuale RW/“imposta sul valore” per le cripto detenute all’estero).

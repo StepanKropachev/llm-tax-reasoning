@@ -12,9 +12,9 @@ except Exception as e:
     print(e)
     exit()
 
-MODEL_NAME = "gpt-5-mini"
-TEMPERATURE = 1
-REASONING = "medium"
+MODEL_NAME = "gpt-4o-2024-08-06"
+TEMPERATURE = 0.2
+# REASONING = "minimum" # Uncomment if you want to use reasoning_effort
 max_completion_tokens = 4000
 
 # --- 2. LOAD ASSETS FROM FILES ---
@@ -41,9 +41,10 @@ def get_rag_context(condition_name):
         return load_text('data/Testo unico del 22.12.1986 n.917 Articolo 67.md')
     elif condition_name == "complex_rag":
         doc1 = load_text('data/Paragrafo c-sexies Articolo 67.md')
-        doc2 = load_text('data/Trattamento fiscale delle cripto-attività. Articolo 1, commi da 126.md')
+        doc2 = load_text('data/Estratte dalla Circolare N30.md')
         doc3 = load_text('data/Faq del 30 aprile 2025. Tassazione sostitutiva delle.md')
-        return f"DOCUMENTO 1:\n{doc1}\n\nDOCUMENTO 2:\n{doc2}\n\nDOCUMENTO 3:\n{doc3}"
+        doc4 = load_text('data/Estratte della Legge di Bilancio 2025.md')
+        return f"DOCUMENTO 1:\n{doc1}\n\nDOCUMENTO 2:\n{doc2}\n\nDOCUMENTO 3:\n{doc3}\n\nDOCUMENTO 4:\n{doc4}"
     else:
         return ""
 
@@ -63,7 +64,7 @@ def run_condition(condition_name):
         # Call the OpenAI API using the structured messages format
         response = client.chat.completions.create(
             model=MODEL_NAME,
-            reasoning_effort=REASONING,
+            ## reasoning_effort=REASONING,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}

@@ -1,0 +1,23 @@
+## Parere Pro Veritate
+
+### In fatto
+
+Il Signor Mario Rossi, un contribuente persona fisica non operante nell'ambito di un'attività d'impresa, ha effettuato investimenti in cripto-attività. Ha acquistato 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Nel 2025, ha venduto la sua intera posizione in Ethereum per 35.000 €, senza effettuare altre cessioni di cripto-attività durante l'anno. Il Signor Rossi cerca chiarimenti sul trattamento fiscale della plusvalenza derivante dalla vendita di Ethereum per l'anno 2025.
+
+### Questioni giuridiche
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza realizzata?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza?
+
+### In diritto
+
+1. **Rilevanza fiscale della plusvalenza**: Secondo la normativa fiscale italiana, le plusvalenze derivanti dalla cessione di cripto-attività da parte di persone fisiche non imprenditori sono generalmente considerate redditi diversi di natura finanziaria. Pertanto, la plusvalenza realizzata dal Signor Rossi è fiscalmente rilevante.
+
+2. **Calcolo della plusvalenza**: La plusvalenza è calcolata come la differenza tra il corrispettivo di vendita e il costo di acquisto delle cripto-attività. Nel caso del Signor Rossi, il costo di acquisto dei 10 Ethereum è stato di 12.000 €, mentre il corrispettivo di vendita è stato di 35.000 €. Pertanto, la plusvalenza è pari a 35.000 € - 12.000 € = 23.000 €.
+
+3. **Aliquota fiscale applicabile**: Le plusvalenze su cripto-attività sono generalmente soggette all'imposta sostitutiva sui redditi diversi di natura finanziaria, che attualmente è fissata al 26% in Italia. Pertanto, l'aliquota applicabile alla plusvalenza del Signor Rossi è del 26%.
+
+### Conclusioni
+
+La plusvalenza di 23.000 € derivante dalla vendita di Ethereum da parte del Signor Rossi è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025. Essa deve essere calcolata come la differenza tra il corrispettivo di vendita e il costo di acquisto, risultando in 23.000 €. L'aliquota fiscale applicabile a tale plusvalenza è del 26%, in quanto si tratta di un reddito diverso di natura finanziaria. Pertanto, il Signor Rossi dovrà pagare un'imposta sostitutiva di 5.980 € (23.000 € x 26%) sulla plusvalenza realizzata.

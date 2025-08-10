@@ -1,0 +1,23 @@
+## Parere Pro Veritate
+
+### In fatto
+
+Il Signor Mario Rossi, contribuente persona fisica non esercente attività d'impresa, ha investito in cripto-attività acquistando 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Il 15 luglio 2025, ha venduto la sua intera posizione in Ethereum per un corrispettivo totale di 35.000 €. Non ha effettuato altre cessioni di cripto-attività durante l'anno solare 2025. Il Signor Rossi richiede chiarimenti sul trattamento fiscale della plusvalenza derivante dalla vendita di Ethereum.
+
+### Questioni giuridiche
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza realizzata?
+
+### In diritto
+
+1. **Rilevanza fiscale della plusvalenza**: Secondo il paragrafo c-sexies dell'Articolo 67 fornito, le plusvalenze realizzate mediante cessione a titolo oneroso di cripto-attività sono fiscalmente rilevanti. La vendita di Ethereum da parte del Signor Rossi rientra in questa categoria, poiché si tratta di una cessione a titolo oneroso di cripto-attività.
+
+2. **Calcolo della plusvalenza**: La plusvalenza è calcolata come la differenza tra il corrispettivo ottenuto dalla vendita e il costo di acquisto. Pertanto, la plusvalenza realizzata dal Signor Rossi è pari a 35.000 € (corrispettivo di vendita) - 12.000 € (costo di acquisto) = 23.000 €.
+
+3. **Aliquota fiscale applicabile**: Sebbene il documento legale fornito non specifichi l'aliquota fiscale applicabile, in base alle conoscenze interne, le plusvalenze da cessione di cripto-attività sono generalmente soggette all'aliquota del 26% come redditi diversi di natura finanziaria.
+
+### Conclusioni
+
+La plusvalenza di 23.000 € derivante dalla vendita di Ethereum da parte del Signor Rossi è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025. Essa deve essere calcolata come la differenza tra il corrispettivo di vendita e il costo di acquisto, risultando in 23.000 €. L'aliquota fiscale applicabile a tale plusvalenza è del 26%, trattandosi di redditi diversi di natura finanziaria. Pertanto, il Signor Rossi dovrà includere tale plusvalenza nella sua dichiarazione dei redditi per l'anno 2025 e assoggettarla all'imposta con l'aliquota indicata.

@@ -1,0 +1,32 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato 10 Ethereum (ETH) nel maggio 2022 per € 12.000 e 0,5 Bitcoin nel giugno 2021 per € 15.000.
+- Non ha effettuato alcuna cessione di cripto-attività fino al 2025.
+- Il 15 luglio 2025 ha venduto l’intera posizione in ETH (10 unità) per € 35.000.
+- Non risultano altre cessioni di cripto-attività nel 2025.
+- Chiede se la plusvalenza realizzata nel 2025 sia fiscalmente rilevante ai fini delle imposte dirette, come si calcola e quale aliquota si applica.
+
+Questioni giuridiche
+- Se la cessione a titolo oneroso di cripto-attività (10 ETH) nel 2025 costituisca una fattispecie fiscalmente rilevante ai sensi dell’art. 67, comma 1, lett. c-sexies, TUIR.
+- Quale sia la regola di determinazione della plusvalenza (base imponibile), con particolare riguardo al costo fiscalmente riconosciuto degli ETH acquistati nel 2022 e venduti nel 2025.
+- Quale aliquota d’imposta si applichi al reddito così determinato e con quali modalità si assolve l’imposizione.
+
+In diritto
+- Norma applicabile fornita: l’art. 67, comma 1, lett. c-sexies TUIR include tra i redditi diversi “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività (…)”. È inoltre precisato che “non costituisce una fattispecie fiscalmente rilevante la permuta tra cripto-attività aventi eguali caratteristiche e funzioni”.
+- Applicazione al caso:
+  - La vendita degli ETH contro corrispettivo in euro integra una “cessione a titolo oneroso” di cripto-attività e, pertanto, rientra nella fattispecie tipica di cui alla lett. c-sexies. Non si tratta di permuta tra cripto-attività con eguali caratteristiche, quindi l’irrilevanza fiscale della permuta non opera.
+  - La rilevanza avviene nel periodo d’imposta 2025, in cui la cessione è stata effettuata (15 luglio 2025).
+- Determinazione della plusvalenza:
+  - In base ai principi generali dei redditi diversi di natura finanziaria (art. 68 TUIR e D.Lgs. 461/1997), la plusvalenza si determina come differenza tra il corrispettivo percepito e il costo o valore di acquisto fiscalmente riconosciuto, tenendo conto di eventuali oneri accessori direttamente inerenti all’acquisto/cessione documentati.
+  - Nel caso concreto: corrispettivo € 35.000; costo di acquisto (maggio 2022) € 12.000. Non risultano opzioni di rivalutazione/“step-up” del costo né oneri accessori dichiarati; pertanto, il costo fiscale è pari a € 12.000.
+  - Plusvalenza imponibile: € 35.000 – € 12.000 = € 23.000.
+  - Eventuali franchigie: secondo la disciplina dei redditi diversi su cripto-attività, le plusvalenze complessive non superiori a € 2.000 nel periodo d’imposta non concorrono alla formazione del reddito; nel caso di specie, l’importo di € 23.000 supera tale soglia e risulta integralmente imponibile.
+- Aliquota e modalità impositive:
+  - Le plusvalenze da cripto-attività rientrano nel regime dei redditi diversi di natura finanziaria soggetti a imposta sostitutiva del 26% (D.Lgs. 461/1997, come applicato alla lett. c-sexies).
+  - In assenza di un intermediario residente che applichi il regime del risparmio amministrato/gestito, l’imposta è autoliquidata in dichiarazione dei redditi relativa al 2025 (presentazione nel 2026), con possibilità di compensare eventuali minusvalenze della stessa categoria conseguite nel medesimo anno o riportate nei termini di legge.
+
+Conclusioni
+- La cessione dei 10 ETH effettuata il 15 luglio 2025 costituisce fattispecie fiscalmente rilevante ai sensi dell’art. 67, comma 1, lett. c-sexies TUIR.
+- La plusvalenza si determina come differenza tra corrispettivo e costo fiscale: € 35.000 – € 12.000 = € 23.000 (salvo oneri accessori documentati che potrebbero incrementare il costo e ridurre la plusvalenza).
+- L’importo supera la soglia di € 2.000 e risulta integralmente imponibile.
+- Aliquota applicabile: imposta sostitutiva del 26% sui redditi diversi di natura finanziaria. Imposta dovuta indicativamente pari a € 23.000 × 26% = € 5.980.
+- L’imposta andrà liquidata in dichiarazione dei redditi relativa al periodo d’imposta 2025. L’eventuale presenza di minusvalenze finanziarie della stessa categoria potrebbe ridurre l’imponibile secondo le regole ordinarie.

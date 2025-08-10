@@ -1,0 +1,25 @@
+**Parere Pro Veritate**
+
+**In fatto:**
+
+Il Signor Mario Rossi, un contribuente persona fisica non operante nell'esercizio di attività d'impresa, ha acquistato 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Non ha effettuato vendite fino al 2025. Il 15 luglio 2025, ha venduto i 10 Ethereum per 35.000 €. Non ha effettuato altre cessioni di cripto-attività nel 2025. Il Signor Rossi richiede un parere sul trattamento fiscale della plusvalenza derivante dalla vendita di Ethereum per l'anno 2025, in particolare sulla rilevanza fiscale, il calcolo della plusvalenza e l'aliquota applicabile.
+
+**Questioni giuridiche:**
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza derivante dalla vendita di Ethereum?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza realizzata?
+
+**In diritto:**
+
+Secondo l'Articolo 67 del Testo Unico delle Imposte sui Redditi (TUIR), le plusvalenze realizzate mediante la cessione a titolo oneroso di cripto-attività sono considerate redditi diversi e, pertanto, fiscalmente rilevanti. La lettera c-sexies dell'Articolo 67 specifica che le plusvalenze derivanti dalla cessione di cripto-attività, come gli Ethereum, sono imponibili.
+
+Per il calcolo della plusvalenza, si deve considerare la differenza tra il corrispettivo percepito dalla vendita (35.000 €) e il costo di acquisto (12.000 €), risultando in una plusvalenza di 23.000 €.
+
+L'aliquota fiscale applicabile alle plusvalenze da cripto-attività, secondo le modifiche normative vigenti dal 18 giugno 2025, è quella prevista per i redditi diversi. Tuttavia, il documento legale non specifica l'aliquota esatta applicabile per il 2025. In assenza di tale specificazione, si applica l'aliquota ordinaria per i redditi diversi, che secondo le conoscenze interne è generalmente del 26%.
+
+**Conclusioni:**
+
+1. La plusvalenza di 23.000 € derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025.
+2. La plusvalenza è calcolata come la differenza tra il corrispettivo di vendita (35.000 €) e il costo di acquisto (12.000 €), risultando in 23.000 €.
+3. L'aliquota fiscale applicabile alla plusvalenza è presumibilmente del 26%, salvo diversa specificazione normativa non presente nei documenti forniti.

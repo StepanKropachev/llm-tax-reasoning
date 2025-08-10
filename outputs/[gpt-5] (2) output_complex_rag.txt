@@ -1,0 +1,32 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato: (i) 0,5 BTC a giugno 2021 per 15.000 euro; (ii) 10 ETH a maggio 2022 per 12.000 euro. Non ha effettuato vendite fino al 2025.
+- Il 15 luglio 2025 ha venduto l’intera posizione in ETH (10 ETH) per 35.000 euro. Non ha effettuato altre cessioni di cripto-attività nel 2025.
+- Chiede se la plusvalenza 2025 è fiscalmente rilevante, come si calcola e quale aliquota si applica.
+
+Questioni giuridiche
+1) Le plusvalenze da cessione a titolo oneroso di cripto-attività realizzate da persone fisiche non imprenditori nel 2025 sono qualificabili come redditi diversi imponibili?
+2) Con quale criterio si determina la base imponibile (corrispettivo meno costo/valore di acquisto; documentazione del costo; soglia/franchigia applicabile nel 2025)?
+3) Qual è l’aliquota dell’imposta sostitutiva applicabile nel 2025 e con quale regime dichiarativo?
+4) Rileva, nel caso, la facoltà di rideterminazione del valore al 1° gennaio 2025 (imposta sostitutiva 18%)? È stata esercitata?
+
+In diritto
+- Qualificazione del reddito: La lettera c-sexies dell’art. 67, comma 1, TUIR (Doc. 1; Doc. 2, Sez. 3.1, p. 46-47) qualifica come redditi diversi «le plusvalenze e gli altri proventi realizzati mediante […] cessione a titolo oneroso […] di cripto-attività». Il caso rientra in tale fattispecie: persona fisica, fuori dall’impresa, vendita onerosa di ETH nel 2025.
+- Franchigia 2.000 euro nel 2025: La circolare 30/E (Doc. 2, Sez. 3.1, p. 47) e la FAQ 30/4/2025 (Doc. 3) confermano che la tassazione delle plusvalenze e altri proventi da cripto-attività è riconosciuta al netto di una franchigia di 2.000 euro per il periodo d’imposta; la base imponibile è l’eccedenza. La Legge di bilancio 2025 (Doc. 4, comma 25) sopprime la franchigia, ma la soppressione opera a regime dal 2026 in coordinamento con il comma 24 (che eleva l’aliquota dal 2026). Per il 2025 resta, dunque, applicabile la franchigia di 2.000 euro.
+- Determinazione della plusvalenza: Ai sensi dell’art. 68, comma 9-bis TUIR (richiamato in Doc. 2, Sez. 3.1, p. 49-50), la plusvalenza è la differenza tra corrispettivo percepito e costo/valore di acquisto, documentato con elementi certi e precisi; in difetto, costo pari a zero. Nel caso: corrispettivo 35.000 euro; costo storico documentabile per 10 ETH pari a 12.000 euro (acquisto maggio 2022). Ne deriva una plusvalenza lorda di 23.000 euro.
+- Rideterminazione del valore: La legge di bilancio 2025 consente, per ciascuna cripto-attività posseduta al 1° gennaio 2025, di assumere in luogo del costo storico il valore al 1° gennaio 2025 previo pagamento di un’imposta sostitutiva del 18% (Doc. 4, commi 26-29). Tale opzione è alternativa e volontaria. Nel caso non risulta esercitata; pertanto, si applica il costo storico. Se fosse stata esercitata, la base imponibile 2025 sarebbe stata calcolata sulla differenza tra il corrispettivo di cessione e il valore rideterminato al 1° gennaio 2025, fermo restando che la rideterminazione non può generare minusvalenze fiscalmente utilizzabili (comma 29).
+- Aliquota e regime: Per il 2025 l’imposta sostitutiva sui redditi diversi di cui all’art. 5 d.lgs. 461/1997 è pari al 26% (Doc. 4, comma 23; Doc. 2, Sez. 3.2 p. 52 e 54). L’aliquota del 33% decorre dal 1° gennaio 2026 (Doc. 4, comma 24), dunque non rileva per la cessione 2025. In regime dichiarativo il contribuente espone il reddito nel quadro RT/730T (Doc. 2, Sez. 3.2.1, p. 54-55; Doc. 3).
+
+Applicazione al caso:
+- Plusvalenza lorda: 35.000 (corrispettivo) – 12.000 (costo storico documentato dei 10 ETH) = 23.000 euro.
+- Franchigia 2025: 2.000 euro. Base imponibile: 23.000 – 2.000 = 21.000 euro.
+- Imposta sostitutiva 2025 (26%): 21.000 × 26% = 5.460 euro.
+- Adempimenti: indicazione nel quadro RT del Modello Redditi PF 2026 (o quadro T del 730/2026, se utilizzabile), con pagamento dell’imposta sostitutiva. Obbligo dichiarativo come titolare delle cripto-attività che hanno prodotto redditi (Doc. 2, p. 55).
+
+Nota sull’opzione di rideterminazione al 1° gennaio 2025:
+- Se il Sig. Rossi avesse optato per il valore al 1° gennaio 2025 ex commi 26-29 (versando il 18% entro il 30/11/2025, anche rateizzabile), la base imponibile 2025 sarebbe stata: corrispettivo (35.000) – valore al 1/1/2025 (determinato ex art. 9 TUIR) – franchigia 2.000. Ciò può ridurre l’imposta se il valore al 1/1/2025 è sensibilmente superiore al costo storico. L’opzione, però, comporta il costo immediato dell’imposta del 18% e non consente la generazione di minusvalenze.
+
+Conclusioni
+- Rilevanza fiscale: La plusvalenza realizzata il 15 luglio 2025 dalla cessione dei 10 ETH è fiscalmente rilevante ai sensi dell’art. 67, comma 1, lett. c-sexies) TUIR.
+- Calcolo: Plusvalenza lorda 23.000 euro (35.000 – 12.000). Per il 2025 si applica la franchigia complessiva di 2.000 euro: base imponibile 21.000 euro.
+- Aliquota: Alla base imponibile 2025 si applica l’imposta sostitutiva del 26%. Imposta dovuta: 5.460 euro, da dichiarare nel modello Redditi/730 relativo al periodo d’imposta 2025.
+- Opzione di rideterminazione: Non esercitata nel caso; se valutata ex commi 26-29 L. bilancio 2025, potrebbe modificare la base imponibile (e il carico fiscale) in funzione del valore al 1° gennaio 2025, ma richiede il pagamento dell’imposta del 18% e non consente il realizzo di minusvalenze.

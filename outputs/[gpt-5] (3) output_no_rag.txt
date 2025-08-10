@@ -1,0 +1,39 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato: (i) 0,5 BTC a giugno 2021 per 15.000 €; (ii) 10 ETH a maggio 2022 per 12.000 €. 
+- Nessuna vendita fino al 2025. 
+- Il 15 luglio 2025 ha venduto l’intera posizione in ETH (10 ETH) per 35.000 €. 
+- Nessuna altra cessione di cripto-attività nel 2025. 
+- Chiede se la plusvalenza 2025 è imponibile, come si calcola e quale aliquota applicare.
+
+Questioni giuridiche
+1) La cessione a pronti di cripto-attività (ETH) da parte di persona fisica non imprenditore nel 2025 genera un reddito imponibile ai fini IRPEF/imp. sostitutiva?  
+2) Qual è la base imponibile: come si determina il costo fiscalmente riconosciuto e la plusvalenza/minusvalenza?  
+3) Quale regime/aliquota si applica nel 2025 e con quali modalità dichiarative?
+
+In diritto
+- Regime applicabile alle cripto-attività dal periodo d’imposta 2023 in avanti: a seguito dell’introduzione di una disciplina specifica per le “cripto-attività” nel TUIR, le plusvalenze da cessione a titolo oneroso, rimborso o permuta di cripto-attività per le persone fisiche non in regime d’impresa sono qualificate come redditi diversi di natura finanziaria, assoggettati a imposta sostitutiva con aliquota del 26%, se superano la soglia di irrilevanza annua di 2.000 euro di plusvalenze complessive. Le minusvalenze sono deducibili/compensabili entro i limiti e le regole dei redditi diversi di natura finanziaria.  
+- Costo fiscalmente riconosciuto: è il costo o valore di acquisto documentato della specifica cripto-attività ceduta, aumentato degli oneri accessori direttamente inerenti (commissioni, fee di acquisto), eventualmente espresso in euro alla data di acquisizione.  
+- Metodo di determinazione: in assenza di regole particolari per lotti fungibili, si applica il criterio del costo medio ponderato per singola “cripto-attività” o, in pratica, il costo specifico del lotto ceduto se identificabile; nel caso di cessione dell’intera posizione in ETH acquistata in un’unica soluzione, il costo riconosciuto è quello storico complessivo di 12.000 €.  
+- Rilevanza temporale: la tassazione sorge al momento della cessione a titolo oneroso contro corrispettivo in valuta legale (vendita per euro), avvenuta il 15 luglio 2025.  
+- Soglia di esenzione: le plusvalenze complessive dell’anno fino a 2.000 euro non sono imponibili; oltre la soglia, l’intero ammontare della plusvalenza concorre all’imposta sostitutiva del 26%.  
+- Aliquota: 26% sui redditi diversi di natura finanziaria.  
+- Modalità: regime dichiarativo (quadro RT del Modello Redditi PF) salvo eventuale applicazione di un regime amministrato/gestito che, per le cripto-attività detenute direttamente presso exchange esteri o wallet, normalmente non si applica; inoltre, gli obblighi di monitoraggio fiscale (quadro RW) e IVAFE/“imposta su cripto-attività” possono essere rilevanti per la detenzione, ma non incidono sul calcolo della plusvalenza oggetto del presente quesito.
+
+Applicazione al caso
+- Operazione imponibile: la vendita dei 10 ETH contro euro nel 2025 è una cessione a titolo oneroso fiscalmente rilevante. Non ricorrono esenzioni particolari; non vi sono altre cessioni nel 2025.  
+- Determinazione della plusvalenza:  
+  • Corrispettivo di cessione: 35.000 €.  
+  • Costo fiscalmente riconosciuto: 12.000 € (acquisto dei 10 ETH a maggio 2022). Se presenti commissioni di acquisto/vendita documentate, andrebbero rispettivamente aggiunte al costo o sottratte dal corrispettivo; il caso non ne indica.  
+  • Plusvalenza lorda: 35.000 – 12.000 = 23.000 €.  
+- Soglia di 2.000 euro: la plusvalenza 2025 è pari a 23.000 €, superiore alla soglia; l’importo è integralmente imponibile.  
+- Aliquota: 26%.  
+- Imposta sostitutiva dovuta: 23.000 × 26% = 5.980 €.  
+- Le altre cripto-attività (0,5 BTC) non sono state cedute; non incidono sul calcolo della plusvalenza 2025.  
+- Se il contribuente avesse minusvalenze pregresse di natura finanziaria riportabili, potrebbe compensarle nei limiti di legge, riducendo la base imponibile. In assenza di tali dati, si assume compensazione nulla.
+
+Conclusioni
+- La vendita dei 10 ETH del 15 luglio 2025 genera per il Sig. Rossi una plusvalenza imponibile come reddito diverso di natura finanziaria.  
+- La plusvalenza si calcola come differenza tra corrispettivo di vendita e costo storico documentato della posizione ceduta: 35.000 € – 12.000 € = 23.000 € (al netto/oltre eventuali commissioni).  
+- L’importo è imponibile integralmente, poiché supera la soglia di irrilevanza di 2.000 €.  
+- Si applica l’imposta sostitutiva del 26%, per un’imposta indicativa di 5.980 €, salvo compensazione con eventuali minusvalenze riportabili e salvo aggiustamenti per commissioni.  
+- Dichiarazione in regime dichiarativo nel Modello Redditi PF (quadro RT); restano fermi gli obblighi di monitoraggio fiscale per la detenzione delle cripto-attività, non oggetto del presente quesito.

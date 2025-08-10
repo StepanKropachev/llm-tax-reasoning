@@ -1,0 +1,23 @@
+## Parere Pro Veritate
+
+### In fatto
+
+Il Signor Mario Rossi, contribuente persona fisica, ha investito in cripto-attività senza esercitare attività d'impresa. Ha acquistato 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Il 15 luglio 2025, ha venduto i 10 Ethereum per 35.000 €, senza effettuare altre cessioni di cripto-attività durante l'anno.
+
+### Questioni giuridiche
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza?
+
+### In diritto
+
+1. **Rilevanza fiscale della plusvalenza**: Secondo il paragrafo c-sexies dell'Articolo 67 fornito, le plusvalenze realizzate mediante cessione a titolo oneroso di cripto-attività sono fiscalmente rilevanti. La vendita dei 10 Ethereum da parte del Signor Rossi rientra in questa categoria, essendo una cessione a titolo oneroso di cripto-attività.
+
+2. **Calcolo della plusvalenza**: La plusvalenza si calcola come differenza tra il corrispettivo percepito dalla vendita e il costo di acquisto delle cripto-attività. Nel caso del Signor Rossi, il corrispettivo della vendita è di 35.000 €, mentre il costo di acquisto era di 12.000 €. Pertanto, la plusvalenza è pari a 35.000 € - 12.000 € = 23.000 €.
+
+3. **Aliquota fiscale applicabile**: Sebbene il documento legale fornito non specifichi l'aliquota fiscale, in base alle conoscenze interne, le plusvalenze su cripto-attività per persone fisiche non imprenditori sono generalmente soggette all'aliquota del 26% in Italia, salvo diverse disposizioni normative specifiche.
+
+### Conclusioni
+
+La plusvalenza di 23.000 € realizzata dal Signor Rossi con la vendita dei 10 Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025. Tale plusvalenza deve essere calcolata come la differenza tra il corrispettivo di vendita e il costo di acquisto, risultando in 23.000 €. L'aliquota fiscale applicabile a tale plusvalenza è presumibilmente del 26%, salvo diverse disposizioni normative specifiche che potrebbero essere intervenute successivamente. Pertanto, il Signor Rossi dovrebbe considerare tale importo nel calcolo delle sue imposte dirette per l'anno 2025.

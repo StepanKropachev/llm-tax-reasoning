@@ -1,0 +1,34 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non titolare di reddito d’impresa, ha acquistato:
+  - 0,5 BTC a giugno 2021 per 15.000 €;
+  - 10 ETH a maggio 2022 per 12.000 € (costo complessivo).
+- Non ha effettuato cessioni fino al 2025.
+- Il 15 luglio 2025 ha venduto tutti i 10 ETH, realizzando 35.000 €.
+- Non ha compiuto altre cessioni di cripto-attività nel 2025.
+- Chiede: (i) se la plusvalenza 2025 è fiscalmente rilevante, (ii) come si calcola, (iii) quale aliquota si applica.
+
+Questioni giuridiche
+1) Se la cessione a titolo oneroso di cripto-attività (ETH) da parte di persona fisica non imprenditore genera un reddito imponibile ai fini delle imposte dirette nel 2025.
+2) Criteri di determinazione della base imponibile (plusvalenza) sulla cessione degli ETH acquistati nel 2022 e venduti nel 2025.
+3) Aliquota applicabile alla plusvalenza così determinata.
+
+In diritto
+- Fonte fornita: paragrafo c-sexies dell’art. 67 TUIR (frammento): sono imponibili “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività, comunque denominate. (…) Non costituisce fattispecie fiscalmente rilevante la permuta tra cripto-attività aventi eguali caratteristiche e funzioni.”
+- Dalla disposizione emerge che:
+  - La cessione a titolo oneroso di cripto-attività genera plusvalenze imponibili tra i redditi diversi di natura finanziaria.
+  - La non imponibilità riguarda solo le permute tra cripto-attività con eguali caratteristiche e funzioni; non rileva nel caso di specie perché vi è vendita contro corrispettivo in valuta/denaro.
+- Criterio di calcolo: in assenza nel documento di una regola specifica diversa, si applica il criterio generale per le plusvalenze da cessione di strumenti/attività finanziarie detenute da persone fisiche: plusvalenza = corrispettivo percepito – costo fiscale (prezzo di acquisto, comprensivo di oneri direttamente inerenti, se presenti).
+  - Il lotto venduto è unico (10 ETH acquistati in un’unica data a un costo complessivo di 12.000 €); il costo unitario medio è 1.200 € per ETH. In mancanza di vendite parziali o lotti multipli, il calcolo è diretto sul costo complessivo del lotto.
+- Aliquota: la normativa interna, per i redditi diversi di natura finanziaria, prevede ordinariamente un’imposizione sostitutiva a aliquota proporzionale. Poiché il documento fornito non riporta l’aliquota, si integra con conoscenza generale del sistema: le plusvalenze finanziarie delle persone fisiche sono in via ordinaria soggette a imposta sostitutiva del 26% (salve specifiche esclusioni/aliquote diverse non pertinenti qui).
+
+Applicazione al caso:
+- Operazione: vendita a titolo oneroso di 10 ETH il 15.7.2025 per 35.000 €.
+- Costo fiscale: 12.000 € (acquisto 10 ETH a maggio 2022).
+- Plusvalenza: 35.000 – 12.000 = 23.000 €.
+- Rilevanza fiscale: sì, trattandosi di cessione a titolo oneroso di cripto-attività, non rientrante nell’ipotesi di permuta tra cripto-attività omogenee.
+- Tassazione: imposta sostitutiva del 26% sulla plusvalenza di 23.000 €, salvo l’eventuale utilizzo di un regime del risparmio amministrato/gestito presso intermediario o la liquidazione in dichiarazione (regime dichiarativo). Nel caso in cui il contribuente gestisca direttamente, l’importo confluisce nel quadro RT della dichiarazione dei redditi relativa al 2025, con imposta sostitutiva del 26%.
+
+Conclusioni
+- La plusvalenza realizzata dal Sig. Rossi il 15 luglio 2025 dalla vendita dei 10 ETH è fiscalmente rilevante ai sensi dell’art. 67, lett. c-sexies TUIR, trattandosi di cessione a titolo oneroso di cripto-attività.
+- La plusvalenza si calcola come differenza tra corrispettivo e costo di acquisto: 35.000 € – 12.000 € = 23.000 €.
+- L’aliquota applicabile è l’imposta sostitutiva del 26%, con un’imposta dovuta pari indicativamente a 5.980 € (26% di 23.000 €), al netto di eventuali oneri accessori documentati che incrementino il costo o spese di intermediazione che riducano il corrispettivo, se presenti. L’imposta va liquidata secondo il regime prescelto (amministrato/gestito tramite intermediario, oppure in dichiarazione nel quadro RT per il periodo d’imposta 2025).

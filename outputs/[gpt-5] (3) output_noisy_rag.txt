@@ -1,0 +1,22 @@
+In fatto:
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato 10 ETH nel maggio 2022 per 12.000 euro. Non ha effettuato vendite fino al 2025.
+- Il 15 luglio 2025 ha ceduto integralmente i 10 ETH per un corrispettivo di 35.000 euro.
+- Non ha effettuato altre cessioni di cripto-attività nel 2025. Detiene anche 0,5 BTC acquistati nel 2021, non venduti.
+
+Questioni giuridiche:
+1) La plusvalenza da cessione di 10 ETH nel 2025 costituisce reddito imponibile ai fini IRPEF come “reddito diverso” da cripto-attività?
+2) Come si determina la plusvalenza imponibile (criteri di costo e corrispettivo; eventuali esclusioni o franchigie)?
+3) Qual è il regime impositivo/aliquota applicabile nel 2025 alla plusvalenza da cripto-attività per persona fisica non imprenditore?
+
+In diritto:
+- L’art. 67, comma 1, lettera c-sexies), TUIR (come modificato) qualifica tra i “redditi diversi” le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività, comunque denominate. È irrilevante la permuta tra cripto-attività aventi eguali caratteristiche e funzioni.
+- La fattispecie del Sig. Rossi integra una cessione a titolo oneroso di cripto-attività (ETH) nel 2025, con conseguente potenziale plusvalenza imponibile ai sensi della lettera c-sexies).
+- La norma non introduce, per il 2025, soglie di esenzione o condizioni di irrilevanza analoghe a quelle previste per valute estere (art. 67, comma 1-ter, TUIR) né esenzioni legate al periodo di detenzione: dunque la plusvalenza su ETH è, in linea di principio, fiscalmente rilevante.
+- Determinazione della plusvalenza: in assenza di una regola diversa nel testo allegato, si applica il criterio generale della differenza tra corrispettivo di cessione e costo o valore di acquisto dei medesimi asset ceduti. Nel caso di specie, lotti omogenei (10 ETH acquistati unitariamente a maggio 2022) e ceduti integralmente a luglio 2025: costo complessivo storico 12.000 euro; corrispettivo 35.000 euro; plusvalenza lorda 23.000 euro.
+- Profilo temporale e aliquota: la lettera c-sexies) richiama, nel corpo delle note, che “sulle plusvalenze e sugli altri proventi di cui alla stessa lettera c-sexies) realizzati a decorrere dal 1° gennaio 2026, l’imposta sostitutiva di cui agli articoli 5, 6 e 7 del d.lgs. 21 novembre 1997, n. 461 è applicata con l’aliquota del 33 per cento”; ciò implica che per il 2025 continua ad applicarsi il regime ordinario vigente prima dell’aumento al 33%. Per le persone fisiche non imprenditori, i redditi diversi finanziari sono ordinariamente assoggettati a imposta sostitutiva; per le cripto-attività, la disciplina speciale introdotta nella lettera c-sexies) è inserita nel perimetro dei redditi diversi di natura finanziaria soggetti a imposta sostitutiva. In mancanza, nel testo allegato, di una diversa aliquota per il 2025, si deve ritenere applicabile l’aliquota sostitutiva già prevista per i redditi diversi di natura finanziaria da cripto-attività prima dell’innalzamento al 33% dal 2026. Pertanto, per il 2025 l’imposizione avviene mediante imposta sostitutiva sul capital gain.
+- La detenzione di 0,5 BTC non incide sul calcolo della plusvalenza da ETH poiché non vi sono cessioni BTC e non opera alcun criterio di compensazione intrinseca tra asset diversi al di fuori delle regole generali di compensazione di plus/minus nello stesso comparto; nel caso specifico non risultano minusvalenze da compensare.
+
+Conclusioni:
+- Rilevanza fiscale: sì. La cessione a titolo oneroso dei 10 ETH nel 2025 genera un reddito diverso ai sensi dell’art. 67, comma 1, lett. c-sexies), TUIR.
+- Calcolo della plusvalenza: corrispettivo 35.000 euro meno costo storico 12.000 euro = plusvalenza imponibile 23.000 euro.
+- Aliquota/regime 2025: la plusvalenza è assoggettata a imposta sostitutiva sui redditi diversi da cripto-attività. L’aumento al 33% opera solo per le plusvalenze realizzate dal 1° gennaio 2026; per il 2025 si applica l’aliquota vigente nel 2025 per tali redditi. Pertanto, il Sig. Rossi dovrà assoggettare 23.000 euro all’imposta sostitutiva applicabile nel 2025 e indicare l’operazione nel quadro fiscale pertinente, potendo eventualmente compensare con eventuali minusvalenze della stessa categoria maturate nel periodo (non presenti nel caso).

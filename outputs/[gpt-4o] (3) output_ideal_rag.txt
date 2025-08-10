@@ -1,0 +1,25 @@
+**Parere Pro Veritate**
+
+**In fatto:**
+
+Il Signor Mario Rossi, un contribuente persona fisica, ha investito in cripto-attività senza esercitare attività d'impresa. Ha acquistato 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Non ha effettuato vendite fino al 15 luglio 2025, quando ha venduto i 10 Ethereum per 35.000 €. Non ha realizzato altre cessioni di cripto-attività nel 2025. Il Signor Rossi cerca chiarimenti sul trattamento fiscale della plusvalenza derivante dalla vendita di Ethereum per l'anno 2025.
+
+**Questioni giuridiche:**
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza?
+
+**In diritto:**
+
+Il documento legale fornito, il paragrafo c-sexies dell'Articolo 67, stabilisce che le plusvalenze realizzate mediante cessione a titolo oneroso di cripto-attività sono fiscalmente rilevanti. Le cripto-attività sono definite come rappresentazioni digitali di valore o diritti trasferibili e memorizzabili elettronicamente. La vendita di Ethereum da parte del Signor Rossi rientra in questa definizione, rendendo la plusvalenza fiscalmente rilevante.
+
+Per calcolare la plusvalenza, si sottrae il costo di acquisto dal corrispettivo di vendita. Il Signor Rossi ha acquistato 10 Ethereum per 12.000 € e li ha venduti per 35.000 €, generando una plusvalenza di 23.000 € (35.000 € - 12.000 €).
+
+In assenza di un'aliquota specifica fornita nei documenti legali, si applica l'aliquota standard per le plusvalenze su investimenti finanziari, che, secondo le conoscenze interne, è generalmente del 26% in Italia.
+
+**Conclusioni:**
+
+1. La plusvalenza di 23.000 € derivante dalla vendita di Ethereum è fiscalmente rilevante per l'anno 2025.
+2. La plusvalenza è calcolata sottraendo il costo di acquisto (12.000 €) dal corrispettivo di vendita (35.000 €), risultando in 23.000 €.
+3. L'aliquota fiscale applicabile è del 26%, pertanto il Signor Rossi dovrà pagare imposte pari a 5.980 € (23.000 € x 26%) sulla plusvalenza realizzata.

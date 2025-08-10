@@ -1,0 +1,36 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato 0,5 BTC nel giugno 2021 per 15.000 € e 10 ETH nel maggio 2022 per 12.000 €.
+- Non ha effettuato vendite fino al 2025.
+- Il 15 luglio 2025 ha ceduto integralmente i 10 ETH per 35.000 €.
+- Non vi sono altre cessioni di cripto-attività nel 2025.
+- Chiede se la plusvalenza 2025 è imponibile ai fini delle imposte dirette, come si calcola e quale aliquota si applica.
+
+Questioni giuridiche
+1) Se la cessione a titolo oneroso di cripto-attività (Ethereum) nel 2025 generi un reddito imponibile ai fini IRPEF come “reddito diverso”.
+2) Il criterio di determinazione della plusvalenza imponibile (base di costo, prezzo di cessione, eventuali regole specifiche).
+3) L’aliquota (o il regime) applicabile ai proventi da cripto-attività realizzati nel 2025.
+
+In diritto
+- L’art. 67, comma 1, TUIR, come modificato e in vigore dal 18/06/2025, include espressamente alla lettera c-sexies “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività, comunque denominate”. È altresì esclusa la rilevanza fiscale della “permuta tra cripto-attività aventi eguali caratteristiche e funzioni”.
+- Le cripto-attività rientrano quindi tra i redditi diversi, se non conseguiti nell’esercizio d’impresa o di lavoro autonomo, come nel caso del Sig. Rossi.
+- La fattispecie concreta (vendita a titolo oneroso di 10 ETH) rientra letteralmente nella cessione a titolo oneroso di cripto-attività di cui alla lett. c-sexies; non ricorrono esenzioni specifiche nella norma allegata per vendite tenute oltre un certo periodo, né soglie quantitative che condizionino l’imponibilità (a differenza delle valute estere ex comma 1-ter).
+- Determinazione della plusvalenza: in assenza, nel testo fornito, di una diversa regola di calcolo, si applica il principio generale per i redditi diversi di natura finanziaria, secondo cui la plusvalenza è pari alla differenza tra il corrispettivo di cessione e il costo o valore di acquisto fiscalmente riconosciuto, eventualmente aumentato degli oneri inerenti documentati. Per le cripto-attività, la lett. c-sexies ricomprende anche i proventi da cessione; il criterio differenziale è coerente con la sistematica del TUIR per le plusvalenze finanziarie.
+- Regime temporale e aliquota: la stessa nota in calce all’art. 67 (lett. c-sexies) precisa che, per le plusvalenze e altri proventi di cui alla lett. c-sexies realizzati a decorrere dal 1° gennaio 2026, l’imposta sostitutiva di cui agli artt. 5, 6 e 7 del D.Lgs. 461/1997 è applicata con l’aliquota del 33 per cento. Da ciò si desume che, per il 2025, continua ad applicarsi l’aliquota vigente prima dell’innalzamento dal 2026; il testo fornito non riporta un diverso valore per il 2025. Pertanto, per il 2025, si applica l’imposta sostitutiva sui redditi diversi di natura finanziaria nella misura ordinaria vigente fino al 31.12.2025 (dato non specificato nella norma allegata ma desumibile per continuità normativa: diversa da 33% e applicabile tramite i regimi del D.Lgs. 461/1997). In ogni caso, il rialzo al 33% opera solo dal 2026.
+
+Applicazione al caso:
+- Calcolo della plusvalenza su ETH:
+  - Corrispettivo di cessione (15.07.2025): 35.000 €.
+  - Costo fiscalmente riconosciuto dei 10 ETH (acquisto maggio 2022): 12.000 €.
+  - Plusvalenza lorda: 35.000 – 12.000 = 23.000 €.
+  - Non risultano oneri accessori documentati dal cliente; in loro assenza, la plusvalenza imponibile coincide con 23.000 €.
+- Rilevanza fiscale: la vendita di ETH è imponibile nel periodo d’imposta 2025 ai sensi dell’art. 67, comma 1, lett. c-sexies TUIR.
+- Aliquota/regime: il provento da cripto-attività 2025 è assoggettabile a imposta sostitutiva sui redditi diversi di natura finanziaria ai sensi del D.Lgs. 461/1997, con l’aliquota ordinaria vigente per il 2025 (l’incremento al 33% trova applicazione solo per realizzi dal 1.1.2026). L’imposta può essere applicata:
+  - in dichiarazione (regime dichiarativo), oppure
+  - tramite intermediario abilitato (regimi del risparmio).
+  L’assenza, nei documenti forniti, di deroghe specifiche per cripto-attività nel 2025 conferma l’applicazione del quadro ordinario.
+
+Conclusioni
+- La plusvalenza derivante dalla vendita dei 10 ETH effettuata il 15 luglio 2025 è fiscalmente rilevante come reddito diverso ex art. 67, comma 1, lett. c-sexies TUIR.
+- La plusvalenza si calcola come differenza tra corrispettivo e costo di acquisto: 35.000 € – 12.000 € = 23.000 € (salvo oneri inerenti documentati che incrementino il costo).
+- Tale plusvalenza è soggetta, per il 2025, all’imposta sostitutiva sui redditi diversi di natura finanziaria prevista dal D.Lgs. 461/1997 nella misura ordinaria vigente fino al 31.12.2025; l’aliquota del 33% si applicherà solo ai realizzi dal 1° gennaio 2026.
+- Operativamente, il Sig. Rossi potrà assolvere l’imposta in dichiarazione dei redditi 2026 (periodo d’imposta 2025), indicando la plusvalenza di 23.000 €, ovvero mediante un intermediario che applichi il regime del risparmio.

@@ -1,0 +1,26 @@
+**Parere Pro Veritate**
+
+**In fatto:**
+
+Il Signor Mario Rossi, contribuente persona fisica non operante nell'ambito di un'attività d'impresa, ha investito in cripto-attività acquistando 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Il 15 luglio 2025, ha venduto i 10 Ethereum per 35.000 €, senza effettuare altre cessioni di cripto-attività nel corso dell'anno.
+
+**Questioni giuridiche:**
+
+1. La plusvalenza derivante dalla vendita di Ethereum nel 2025 è fiscalmente rilevante ai fini delle imposte dirette?
+2. Come deve essere calcolata la plusvalenza?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza realizzata?
+
+**In diritto:**
+
+1. **Rilevanza fiscale della plusvalenza:**
+   Secondo il paragrafo c-sexies dell'Articolo 67 del TUIR, le plusvalenze derivanti dalla cessione di cripto-attività sono considerate redditi diversi e sono fiscalmente rilevanti se superano la soglia di 2.000 € nel periodo d'imposta (Documenti 1 e 2). Nel caso del Signor Rossi, la plusvalenza realizzata è di 23.000 € (35.000 € - 12.000 €), superando quindi la soglia di 2.000 €, rendendola fiscalmente rilevante.
+
+2. **Calcolo della plusvalenza:**
+   La plusvalenza è calcolata come la differenza tra il corrispettivo percepito (35.000 €) e il costo di acquisto (12.000 €) delle cripto-attività, risultando in una plusvalenza di 23.000 € (Documenti 2 e 3).
+
+3. **Aliquota fiscale applicabile:**
+   La plusvalenza derivante da cripto-attività è soggetta a un'imposta sostitutiva del 26% (Documenti 2, 3 e 4). Pertanto, l'importo imponibile, eccedente la franchigia di 2.000 €, è di 21.000 €, su cui si applica l'aliquota del 26%, risultando in un'imposta di 5.460 €.
+
+**Conclusioni:**
+
+La plusvalenza di 23.000 € realizzata dal Signor Rossi nel 2025 è fiscalmente rilevante ai fini delle imposte dirette, poiché supera la soglia di 2.000 €. La base imponibile, dopo l'applicazione della franchigia, è di 21.000 €, su cui si applica un'imposta sostitutiva del 26%, pari a 5.460 €. Il Signor Rossi dovrà dichiarare tale plusvalenza nella sua dichiarazione dei redditi per l'anno 2025 e versare l'imposta dovuta.

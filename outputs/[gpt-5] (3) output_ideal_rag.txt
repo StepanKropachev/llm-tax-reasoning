@@ -1,0 +1,48 @@
+Parere pro veritate
+
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato: (i) 0,5 BTC a giugno 2021 per 15.000 €; (ii) 10 ETH a maggio 2022 per 12.000 €. 
+- Non ha mai effettuato vendite fino al 2025. 
+- Il 15 luglio 2025 ha ceduto a titolo oneroso l’intera posizione in Ethereum (10 ETH) incassando 35.000 €. 
+- Nessun’altra cessione di cripto-attività nel 2025.
+
+Questioni giuridiche
+1) Se la cessione del 15 luglio 2025 di 10 ETH integri un’ipotesi fiscalmente rilevante ai fini delle imposte dirette.  
+2) In caso affermativo, come si determina la plusvalenza imponibile (base imponibile).  
+3) Quale aliquota si applica al reddito così determinato per il periodo d’imposta 2025.
+
+In diritto
+- Fonte fornita: Art. 67, comma 1, lett. c-sexies TUIR (estratto): sono redditi diversi “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività… Non costituisce fattispecie fiscalmente rilevante la permuta tra cripto-attività aventi eguali caratteristiche e funzioni”.
+
+1) Rilevanza fiscale dell’operazione
+- La cessione a titolo oneroso di cripto-attività rientra espressamente nell’ambito della lett. c-sexies come reddito diverso di natura finanziaria. 
+- Nel caso di specie si tratta di vendita (non permuta): l’esclusione per “permuta tra cripto-attività con eguali caratteristiche e funzioni” non opera. 
+- Pertanto, la plusvalenza eventualmente realizzata è fiscalmente rilevante nel 2025 (periodo d’imposta in cui avviene la cessione).
+
+2) Determinazione della plusvalenza
+- In base alla disciplina dei redditi diversi di natura finanziaria (art. 67 TUIR e principi generali), la plusvalenza è data dalla differenza tra corrispettivo percepito e costo o valore di acquisto, al netto degli oneri inerenti. 
+- La posizione ceduta riguarda solo ETH; l’acquisto storico è di 10 ETH per 12.000 €: costo complessivo unitario 1.200 € per ETH. 
+- Corrispettivo di cessione 35.000 €. 
+- Plusvalenza lorda: 35.000 € – 12.000 € = 23.000 €. 
+- Non risultano oneri/commissioni deducibili indicati; in assenza, la plusvalenza imponibile coincide con 23.000 €.
+
+3) Aliquota applicabile
+- Per i redditi diversi di natura finanziaria rientranti nell’art. 67 TUIR, la tassazione ordinariamente avviene in via sostitutiva dell’IRPEF con imposta del 26% (aliquota applicata alle plusvalenze su strumenti finanziari e, secondo la riforma che ha introdotto la lett. c-sexies, anche alle cripto-attività). 
+- Si presume il regime dichiarativo (il contribuente indica il reddito nel quadro RT e versa l’imposta sostitutiva), salvo eventuale opzione/operatività in regime amministrato/gestito non indicata nel caso.
+
+Calcolo imposta
+- Base imponibile: 23.000 €. 
+- Imposta sostitutiva 26%: 5.980 €. 
+- Imposta dovuta nel 2025 (salvo crediti/perdite compensabili e salvo oneri documentati che riducano il corrispettivo o aumentino il costo).
+
+Ulteriori note operative
+- La detenzione di BTC non incide su questa specifica plusvalenza perché non vi è stata cessione né permuta connessa ai BTC. 
+- L’esclusione per “permuta tra cripto-attività con eguali caratteristiche e funzioni” non è rilevante: l’operazione è una vendita contro valuta/fiat.
+- La plusvalenza rileva per cassa alla data di cessione (15 luglio 2025) con imposizione nel periodo d’imposta 2025, da indicare nella dichiarazione relativa. 
+- Eventuali commissioni di acquisto/vendita documentate possono incrementare il costo fiscalmente riconosciuto o ridurre il corrispettivo, abbattendo la base imponibile.
+
+Conclusioni
+- La cessione dei 10 ETH del 15 luglio 2025 è fiscalmente rilevante ai sensi dell’art. 67, comma 1, lett. c-sexies TUIR, in quanto cessione a titolo oneroso di cripto-attività. 
+- La plusvalenza imponibile si determina come differenza tra corrispettivo e costo: 35.000 € – 12.000 € = 23.000 € (salvo oneri/commissioni documentati). 
+- Alla plusvalenza si applica l’imposta sostitutiva del 26%, pari a 5.980 € su 23.000 €. 
+- Il reddito va dichiarato per l’anno d’imposta 2025 nel quadro dei redditi diversi di natura finanziaria, con versamento dell’imposta sostitutiva dovuta.

@@ -1,0 +1,32 @@
+In fatto
+- Il Sig. Mario Rossi, persona fisica non imprenditore, ha acquistato: (i) 0,5 BTC a giugno 2021 per 15.000 €; (ii) 10 ETH a maggio 2022 per 12.000 €.
+- Non ha effettuato alcuna cessione fino al 2025.
+- Il 15 luglio 2025 ha ceduto l’intera posizione in ETH (10 ETH) incassando 35.000 €.
+- Non ha effettuato altre cessioni di cripto-attività nel 2025.
+- Chiede se la plusvalenza sulla vendita degli ETH è fiscalmente rilevante ai fini delle imposte dirette 2025, come si calcola e quale aliquota si applica.
+
+Questioni giuridiche
+1) La cessione a titolo oneroso di cripto-attività (ETH) da parte di una persona fisica non imprenditore integra una fattispecie fiscalmente rilevante ai sensi della disciplina delle plusvalenze finanziarie?
+2) Quale criterio di determinazione della plusvalenza si applica (corrispettivo meno costo/valore di acquisto) e quali elementi entrano nel costo fiscalmente riconosciuto?
+3) Qual è l’aliquota applicabile alla plusvalenza così determinata per il periodo d’imposta 2025?
+
+In diritto
+- Fonte fornita: paragrafo c-sexies dell’art. 67 TUIR (come da estratto). La disposizione qualifica come redditi diversi “le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attività”. È altresì specificato che “non costituisce una fattispecie fiscalmente rilevante la permuta tra cripto-attività aventi eguali caratteristiche e funzioni”.
+- Dall’estratto si ricavano due regole:
+  a) Rilevanza: la cessione a titolo oneroso di cripto-attività genera plusvalenze fiscalmente rilevanti in capo alle persone fisiche al di fuori dell’esercizio d’impresa, rientrando tra i redditi diversi di natura finanziaria.
+  b) Esclusione specifica: la sola permuta tra cripto-attività con eguali caratteristiche e funzioni non è imponibile; ciò non riguarda il caso di specie, che è cessione contro corrispettivo in euro (o equivalente).
+
+Applicazione al caso:
+- Operazione: il 15 luglio 2025 il Sig. Rossi ha effettuato una “cessione a titolo oneroso” di 10 ETH, realizzando un corrispettivo complessivo di 35.000 €. L’operazione ricade nel perimetro dell’art. 67, lett. c-sexies, ed è quindi fiscalmente rilevante.
+- Determinazione della plusvalenza: in assenza nel testo fornito di una formula esplicita, si applica il criterio generale dei redditi diversi di natura finanziaria: plusvalenza = corrispettivo percepito – costo o valore di acquisto fiscalmente riconosciuto, al netto di eventuali oneri direttamente inerenti la transazione.
+  - Costo riconosciuto degli ETH: 12.000 € (acquisto di 10 ETH nel maggio 2022). Non risultano indicati oneri accessori o commissioni; se presenti e documentati, sarebbero aggiungibili al costo o deducibili dal corrispettivo secondo i criteri ordinari.
+  - Corrispettivo di vendita: 35.000 €.
+  - Plusvalenza: 35.000 – 12.000 = 23.000 €.
+- Aliquota applicabile: il testo fornito non riporta l’aliquota. In base alle regole generali sui redditi diversi di natura finanziaria delle persone fisiche (conoscenza interna), tali plusvalenze sono assoggettate a imposta sostitutiva con aliquota ordinariamente pari al 26%, salvo specifiche eccezioni non pertinenti al caso.
+- Anno di tassazione: 2025 (principio di cassa/realizzo alla data di cessione).
+
+Conclusioni
+- La vendita dei 10 ETH del 15 luglio 2025 costituisce fattispecie fiscalmente rilevante ai sensi dell’art. 67, lett. c-sexies TUIR, come da estratto fornito.
+- La plusvalenza si determina come differenza tra il corrispettivo di cessione e il costo fiscalmente riconosciuto degli asset ceduti: 35.000 € – 12.000 € = 23.000 € (da rettificare solo se vi sono commissioni documentate).
+- La plusvalenza così determinata rileva nel periodo d’imposta 2025 ed è assoggettata a imposta sostitutiva del 26% quale reddito diverso di natura finanziaria. Imposta indicativa: 23.000 € × 26% = 5.980 €.
+- La permuta non rilevante menzionata dalla norma non si applica al caso in esame, trattandosi di cessione a titolo oneroso contro corrispettivo.

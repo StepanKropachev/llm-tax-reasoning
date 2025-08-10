@@ -12,9 +12,9 @@ except Exception as e:
     print(e)
     exit()
 
-MODEL_NAME = "gpt-4o-2024-08-06"
-TEMPERATURE = 0.2
-# REASONING = "minimum" # Uncomment if you want to use reasoning_effort
+MODEL_NAME = "gpt-5"
+TEMPERATURE = 1
+REASONING = "minimal"
 max_completion_tokens = 4000
 
 # --- 2. LOAD ASSETS FROM FILES ---
@@ -70,6 +70,7 @@ def run_condition(condition_name):
                 {"role": "user", "content": user_prompt}
             ],
             temperature=TEMPERATURE,
+            reasoning_effort=REASONING,
             max_completion_tokens=max_completion_tokens
         )
         

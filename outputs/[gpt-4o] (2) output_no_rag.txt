@@ -1,0 +1,23 @@
+### Parere Pro Veritate
+
+#### In fatto
+
+Il Signor Mario Rossi, contribuente persona fisica non esercente attività d'impresa, ha effettuato investimenti in cripto-attività. Ha acquistato 0,5 Bitcoin nel giugno 2021 per 15.000 € e 10 Ethereum nel maggio 2022 per 12.000 €. Il 15 luglio 2025, ha venduto i 10 Ethereum per 35.000 €, senza effettuare altre cessioni di cripto-attività nel corso dell'anno. Il Signor Rossi richiede chiarimenti sul trattamento fiscale della plusvalenza realizzata dalla vendita di Ethereum nel 2025.
+
+#### Questioni giuridiche
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza realizzata?
+
+#### In diritto
+
+1. **Rilevanza fiscale della plusvalenza**: Secondo la normativa fiscale italiana, le plusvalenze derivanti dalla cessione di cripto-attività da parte di persone fisiche sono considerate redditi diversi di natura finanziaria. Tali plusvalenze sono fiscalmente rilevanti se derivano da operazioni di cessione a titolo oneroso.
+
+2. **Calcolo della plusvalenza**: La plusvalenza si calcola come differenza tra il corrispettivo percepito dalla vendita e il costo di acquisto delle cripto-attività. Nel caso del Signor Rossi, il costo di acquisto dei 10 Ethereum è stato di 12.000 €, mentre il corrispettivo di vendita è stato di 35.000 €. Pertanto, la plusvalenza è pari a 35.000 € - 12.000 € = 23.000 €.
+
+3. **Aliquota fiscale applicabile**: Le plusvalenze su cripto-attività sono soggette all'imposta sostitutiva sui redditi diversi di natura finanziaria, che attualmente è fissata al 26% in Italia. Pertanto, l'importo della plusvalenza di 23.000 € sarà soggetto a un'imposta del 26%.
+
+#### Conclusioni
+
+La plusvalenza realizzata dal Signor Rossi dalla vendita dei 10 Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025. La plusvalenza ammonta a 23.000 €, calcolata come differenza tra il corrispettivo di vendita (35.000 €) e il costo di acquisto (12.000 €). Tale plusvalenza sarà soggetta a un'imposta sostitutiva del 26%, risultando in un'imposta dovuta di 5.980 €.

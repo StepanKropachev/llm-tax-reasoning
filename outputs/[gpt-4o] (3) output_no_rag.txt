@@ -1,0 +1,23 @@
+**Parere Pro Veritate**
+
+**In fatto:**
+
+Il Signor Mario Rossi, un contribuente persona fisica non operante in attività d'impresa, ha effettuato investimenti in cripto-attività. Nel giugno 2021, ha acquistato 0,5 Bitcoin per 15.000 €, e nel maggio 2022 ha acquistato 10 Ethereum per 12.000 €. Non ha effettuato vendite fino al 15 luglio 2025, quando ha venduto i suoi 10 Ethereum per 35.000 €. Non ci sono state altre cessioni di cripto-attività nel 2025. Il Signor Rossi cerca chiarimenti sul trattamento fiscale della plusvalenza derivante dalla vendita di Ethereum.
+
+**Questioni giuridiche:**
+
+1. La plusvalenza derivante dalla vendita di Ethereum è fiscalmente rilevante ai fini delle imposte dirette per l'anno 2025?
+2. Come deve essere calcolata la plusvalenza?
+3. Qual è l'aliquota fiscale applicabile alla plusvalenza realizzata?
+
+**In diritto:**
+
+1. **Rilevanza fiscale della plusvalenza:** Secondo la normativa fiscale italiana, le plusvalenze realizzate da persone fisiche su cripto-attività sono generalmente considerate redditi diversi di natura finanziaria e, quindi, fiscalmente rilevanti. La rilevanza fiscale dipende dal superamento di determinate soglie di detenzione e dalla natura delle operazioni. Tuttavia, in assenza di specifiche soglie di esenzione applicabili alle cripto-attività, la plusvalenza realizzata dal Signor Rossi è presumibilmente rilevante.
+
+2. **Calcolo della plusvalenza:** La plusvalenza si calcola come la differenza tra il corrispettivo di vendita e il costo di acquisto. Nel caso del Signor Rossi, il costo di acquisto dei 10 Ethereum è stato di 12.000 €, mentre il corrispettivo di vendita è stato di 35.000 €. Pertanto, la plusvalenza è pari a 35.000 € - 12.000 € = 23.000 €.
+
+3. **Aliquota fiscale applicabile:** Le plusvalenze su cripto-attività, assimilate ai redditi diversi di natura finanziaria, sono soggette a un'imposta sostitutiva con un'aliquota del 26% in Italia. Pertanto, l'importo della plusvalenza di 23.000 € sarà soggetto a tassazione con questa aliquota.
+
+**Conclusioni:**
+
+La plusvalenza di 23.000 € realizzata dal Signor Rossi dalla vendita dei 10 Ethereum è fiscalmente rilevante per l'anno 2025. Essa deve essere calcolata come la differenza tra il prezzo di vendita e il costo di acquisto, risultando in 23.000 €. Questa plusvalenza è soggetta a un'imposta sostitutiva del 26%, in linea con la normativa italiana sui redditi diversi di natura finanziaria. Pertanto, il Signor Rossi dovrà versare un'imposta di 5.980 € (23.000 € x 26%) sulle plusvalenze realizzate.

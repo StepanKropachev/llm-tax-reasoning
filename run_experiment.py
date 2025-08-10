@@ -13,7 +13,7 @@ except Exception as e:
     exit()
 
 MODEL_NAME = "gpt-5"
-TEMPERATURE = 1
+TEMPERATURE = 0
 REASONING = "minimal"
 max_completion_tokens = 4000
 
